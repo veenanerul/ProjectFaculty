@@ -6,4 +6,4 @@ CREATE TABLE IF NOT EXITS dept(
 	description TEXT,
 	primary key(id)
 );
-INSERT INTO dept(name,description) VALUES( 'Kavitha S','PROFESSOR');
+INSERT INTO dept(name,description) VALUES( 'COMPUTER ENGINEERING','Established in the year 1999.');
