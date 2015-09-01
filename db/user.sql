@@ -10,5 +10,5 @@ CREATE TABLE IF NOT EXISTS users(
 );
 
 INSERT INTO users(TeacherID, level, status) VALUES(1, 1, 0);
-INSERT INTO users(TeacherID, level, status) VALUES(1, 1, 0);
-INSERT INTO users(TeacherID, level, status) VALUES(1, 1, 0);
+INSERT INTO users(TeacherID, level, status) VALUES(2, 1, 0);
+INSERT INTO users(TeacherID, level, status) VALUES(3, 1, 0);
